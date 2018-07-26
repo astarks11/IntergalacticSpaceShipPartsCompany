@@ -1,0 +1,2 @@
+query = "insert into emanuelb.Customer values ("+custNum+", '"+customerName+"')";
+						conn.execute(query);

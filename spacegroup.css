@@ -1,0 +1,68 @@
+
+	html,body{
+		background-color:#2B3856;
+	}
+
+	h1{
+		color:white;
+		text-align: center;
+		text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+		padding: 0;
+	}
+
+	legend,p,label,option, select,input, table, td, tr{
+		font-size: 18pt;
+	}
+
+	p, label, legend{
+		color:white;
+	}
+	
+	input{
+		height:50px;
+		width:200px;
+	}
+
+	table{
+		border-style:solid;
+		border-width:3px;
+		border-radius:5px;
+		padding: 10px;
+		border-color:black;
+		background-color: #53607E;
+	}
+
+	tr, th, td{
+		color:white;
+		border-style:solid;
+		border-width:1px;
+		text-align:center;
+	}
+
+	form{
+		background-color:#53607E;
+		width:400px;
+		border-style:solid;
+		border-radius:5px;
+		border-width:2px;
+		padding:5px;
+	}
+
+	#orderForm{
+		width:90%;
+	}
+	
+	a{
+		color:white;
+		padding-top:15px;
+		display:block;
+		text-decoration:none;
+		font-size:30px;
+		border:solid;
+		width: 500px;
+		height: 50px;
+		text-align:center;
+		background-color:#53607E;
+	}
+
+
